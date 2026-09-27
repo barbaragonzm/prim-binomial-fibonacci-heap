@@ -44,10 +44,10 @@ Corre automáticamente las 4 series del enunciado, 10 repeticiones cada una:
 
 | Serie | Fijo | Variable | Mide |
 |---|---|---|---|
-| A | $V=2^{20}$ | $E=2^{20}$–$2^{24}$ | Costo total (6.3.1) |
-| B | $E=2^{24}$ | $V=2^{18}$–$2^{22}$ | Costo total (6.3.1) |
-| C | $V=2^{18}$ | $E=2^{18}$–$2^{22}$ | Costo amortizado (6.3.2) |
-| D | $E=2^{22}$ | $V=2^{14}$–$2^{18}$ | Costo amortizado (6.3.2) |
+| A | $V=2^{20}$ | $E=2^{20}$–$2^{24}$ | Costo total  |
+| B | $E=2^{24}$ | $V=2^{18}$–$2^{22}$ | Costo total  |
+| C | $V=2^{18}$ | $E=2^{18}$–$2^{22}$ | Costo amortizado |
+| D | $E=2^{22}$ | $V=2^{14}$–$2^{18}$ | Costo amortizado  |
 
 Genera dos CSV:
 - `resultados_costo_total.csv`: tiempos promedio (Series A/B) + verificación
